@@ -67,7 +67,7 @@ Seattle, WA | [minh.seikel@gmail.com](mailto:minh.seikel@gmail.com) | [LinkedIn]
 ## Education
 
 ### ADA DEVELOPERS ACADEMY — Seattle, WA
-#### [Full Stack Web Development Certification](https://certificate.adadevelopersacademy.org/6fb41053-ee85-4162-bd86-4f5d57317e8a) *08/2022 – 07/2023*
+- [Full Stack Web Development Certification](https://certificate.adadevelopersacademy.org/6fb41053-ee85-4162-bd86-4f5d57317e8a) *08/2022 – 07/2023*
 
 ### EASTERN ILLINOIS UNIVERSITY — Charleston, IL
 - MBA in Accounting Concentration *01/2012 - 12/2013*
