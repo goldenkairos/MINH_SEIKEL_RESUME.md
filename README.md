@@ -2,11 +2,11 @@
 # MINH SEIKEL, MBA
 
 Seattle, WA | [minh.seikel@gmail.com](mailto:minh.seikel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/minh-seikel/) | [Personal Portfolio](https://www.yourportfolio.com) | (540) 750-3350
-
+---
 ## Highlights
 
 Self-guided full-stack software engineer with experience shipping native UX code to millions of users, agile development practices, data analysis, and solving user-facing problems. Also familiar with scripting in web-based technologies such as React and Python.
-
+---
 ## Software Engineering Experience
 
 ### MICROSOFT — Redmond, WA
@@ -21,7 +21,7 @@ Self-guided full-stack software engineer with experience shipping native UX code
   - Captured close to 1k user submissions in less than a month to guide the team's next steps in development before public launch
   - Refactored the generic user feedback component to be open to extension and modification by downstream consumer teams
 - Monitored Edge user experience by creating histograms in C++ related to New Tab, New Window, and New Private window to measure UI performance related to tabs activities to monitor user experience with Edge browser
-
+---
 ## Technical Projects
 
 ### NOMNOM MATCHUP! - Game
@@ -38,7 +38,7 @@ Self-guided full-stack software engineer with experience shipping native UX code
 - Created requirements from user stories, design, and chose technologies for implementation
 - Used agile methodologies with Trello's task management. Served as scrum master to track daily and weekly milestones
 - Partnered with another software engineer to build front-end components, relational database model, and the backend API
-
+---
 ## Finance & Accounting Experience
 
 ### AMAZON.COM, INC. — Seattle, WA E-commerce & Technology
@@ -64,13 +64,13 @@ Self-guided full-stack software engineer with experience shipping native UX code
 #### Staff Accountant | Intern
 *3/2014 – 3/2017 | 6/2013 – 12/2013*
 - Automated data entry and eliminated 50% of the workload of CAD sales tax reconciliation, resulting in 72 hours saved annually
-
+---
 ## Technical Skills
 
 - Programming Languages: Python, JavaScript, C++, HTML/CSS, SQL
 - Tools: React, Node, Flask, PostgreSQL, Firebase, Heroku, Git, Linux, VSCode, Azure DevOps
 - Reporting Tools: Quicksight, Datanet, SmartView, OBIEE, and Microsoft Power BI
-
+---
 ## Education
 
 ### ADA DEVELOPERS ACADEMY — Seattle, WA
