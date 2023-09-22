@@ -1,17 +1,16 @@
 
-# MINH SEIKEL, MBA
+# MINH SEIKEL, MBA ⭐️
 
 Seattle, WA | [minh.seikel@gmail.com](mailto:minh.seikel@gmail.com) | [LinkedIn](https://www.linkedin.com/in/minh-seikel/) | [Personal Portfolio](https://www.yourportfolio.com) | (540) 750-3350
----
+
 ## Highlights
 
-Self-guided full-stack software engineer with experience shipping native UX code to millions of users, agile development practices, data analysis, and solving user-facing problems. Also familiar with scripting in web-based technologies such as React and Python.
+#### Self-guided full-stack software engineer with experience shipping native UX code to millions of users, agile development practices, data analysis, and solving user-facing problems. Also familiar with scripting in web-based technologies such as React and Python.
 ---
 ## Software Engineering Experience
 
 ### MICROSOFT — Redmond, WA
-#### Software Engineer Intern (Contracted through ADA Developers Academy)
-*02/2023 – 07/2023*
+#### Software Engineer Intern (Contracted through ADA Developers Academy) *02/2023 – 07/2023*
 - Project: Edge - Tabs Management
 - Tech Stack: C++, Chromium, VSCode, Azure DevOps
 - Resolved over 20 user-facing bugs by developing and shipping Chromium/Edge conforming code to millions of users, resulting in the improvement of tab functionality and user experience in Edge browser related to:
@@ -24,15 +23,13 @@ Self-guided full-stack software engineer with experience shipping native UX code
 ---
 ## Technical Projects
 
-### NOMNOM MATCHUP! - Game
-*08/2023 - 09/2023*
+#### [NOMNOM MATCHUP!](https://nomnom-matchup.netlify.app/) *08/2023 - 09/2023*
 - Tech Stack: React, JavaScript, HTML, CSS, Netlify
 - Developed a web-based, mobile-friendly memory matching game featuring a 4x4 game board with 8 pairs of shuffled cards
 - Implemented card selection and matching functionality, along with a win condition triggering fireworks animations upon completion
 - Implemented local storage and state for tracking matches found, total moves, and best scores, ensuring a seamless user experience
 
-### FEELING WELL - Demo
-*06/07/2023 – 07/2023*
+#### [FEELING WELL](https://youtu.be/vvlEZZYfe6o) *06/07/2023 – 07/2023*
 - Tech Stack: Python, JavaScript, React, D3, Flask, SQLAlchemy, Firebase Auth & Hosting
 - Designed and built the app for users to improve emotional intelligence in a team of 2
 - Created requirements from user stories, design, and chose technologies for implementation
@@ -42,8 +39,7 @@ Self-guided full-stack software engineer with experience shipping native UX code
 ## Finance & Accounting Experience
 
 ### AMAZON.COM, INC. — Seattle, WA E-commerce & Technology
-#### Senior Financial Analyst
-*02/2020 – 08/2022*
+#### Senior Financial Analyst *02/2020 – 08/2022*
 - Supported 30+ new project and business expansion initiatives, including identifying potential tech debt with program managers
 - Worked closely with Data Engineering to enhance revenue reconciliation process on over $10B per month
 - Partnered with Transportation Data Engineering and BI engineers to streamline $300M quarterly revenue recognition process
@@ -51,18 +47,15 @@ Self-guided full-stack software engineer with experience shipping native UX code
 - Performed team’s user acceptance testing to support authoritative AWS QuickSight migration
 
 ### VISCOFAN, USA — Danville, IL Food Production
-#### Cost Controller
-*11/2018 – 01/2020*
+#### Cost Controller *11/2018 – 01/2020*
 - Generated monthly reports to executive leadership using data visualization techniques and communicated monthly financial results
 
 ### ARCHER DANIELS MIDLAND — Decatur, IL Agriculture
-#### Accountant, Ag Services
-*3/2017 – 11/2018*
+#### Accountant, Ag Services *3/2017 – 11/2018*
 - Reduced 10 manual hours monthly using VBA, Power BI, and SQL to automate manager ledger check report
 
 ### C.H.I OVERHEAD DOORS, INC. — Arthur, IL Manufacturing
-#### Staff Accountant | Intern
-*3/2014 – 3/2017 | 6/2013 – 12/2013*
+#### Staff Accountant | Intern *3/2014 – 3/2017 | 6/2013 – 12/2013*
 - Automated data entry and eliminated 50% of the workload of CAD sales tax reconciliation, resulting in 72 hours saved annually
 ---
 ## Technical Skills
@@ -74,11 +67,8 @@ Self-guided full-stack software engineer with experience shipping native UX code
 ## Education
 
 ### ADA DEVELOPERS ACADEMY — Seattle, WA
-#### Full Stack Web Development Certification
-*08/2022 – 07/2023*
+#### [Full Stack Web Development Certification](https://certificate.adadevelopersacademy.org/6fb41053-ee85-4162-bd86-4f5d57317e8a) *08/2022 – 07/2023*
 
 ### EASTERN ILLINOIS UNIVERSITY — Charleston, IL
-- MBA in Accounting Concentration
-  *01/2012 - 12/2013*
-- B.S. in Finance and Minor in Accounting
-  *08/2008 - 12/2010*
+- MBA in Accounting Concentration *01/2012 - 12/2013*
+- B.S. in Finance and Minor in Accounting *08/2008 - 12/2010*
